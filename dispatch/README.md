@@ -47,3 +47,18 @@ send_telegram_signal(
     """,
     bot_token='123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11'
 )
+
+**🔐 Security Note**
+Always store your bot_token securely using:
+
+Environment variables (os.getenv)
+
+A .env file (use python-dotenv)
+
+Encrypted secrets manager (for production)
+
+**🧭 Future Enhancements**
+Feature	Status
+Retry queue for failed sends	🔜 Planned
+Webhook / update listener	🔜 Planned
+Multi-platform dispatch (Discord, Slack)	🔜 Planned
