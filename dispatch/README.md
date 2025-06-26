@@ -15,7 +15,7 @@ To streamline and automate the sending of finalized trade alerts — formatted b
 
 | File                   | Description                                      |
 |------------------------|--------------------------------------------------|
-| `telegram_dispatcher.py` | Core dispatch logic: connects to Telegram Bot API and sends preformatted messages |
+| `live_dispatch.py` | Core dispatch logic: connects to Telegram Bot API and sends preformatted messages |
 
 ---
 
