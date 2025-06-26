@@ -80,7 +80,9 @@ python examples/test_formatter.py
 📄 Documentation
 
 [📘 Signal Formatter Module — Guide for Codex Integration](https://docs.google.com/document/d/1q9Ls1xvgQq6iYP4bCRUcP2u4pJqizPjsTtZwtBCGYJ0)
+
 [📘 Trade Structuring Master Guide — Aligning Prediction Engine Outputs With Signal Risk Logic](https://docs.google.com/document/d/1r8n3RU3bawmqQrXIVN3ahQyMlIqaBSk0ldX_y03FPwE)
+
 [📂 Master Guide — Full System Overview & Prioritized Integration Plan](https://docs.google.com/document/d/1SNXSDPNoD9vFa2uJD2_Wp38lhfLKXL_xjap8av5j-sU)
 
 💡 Roadmap
