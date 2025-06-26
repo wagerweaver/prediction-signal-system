@@ -32,7 +32,7 @@ To streamline and automate the sending of finalized trade alerts — formatted b
 ## 🚀 How to Use
 
 ```python
-from telegram_dispatcher import send_telegram_signal
+from live_dispatch import send_telegram_signal
 
 send_telegram_signal(
     chat_id='@YourChannelName',
