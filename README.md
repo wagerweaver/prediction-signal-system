@@ -85,7 +85,8 @@ python examples/test_formatter.py
 
 [📂 Master Guide — Full System Overview & Prioritized Integration Plan](https://docs.google.com/document/d/1SNXSDPNoD9vFa2uJD2_Wp38lhfLKXL_xjap8av5j-sU)
 
-💡 Roadmap
+
+## Roadmap
 ✅ Multi-asset class support (stocks, crypto, forex)
 
 ✅ Leverage-tier automation
@@ -98,12 +99,14 @@ python examples/test_formatter.py
 
 🔜 Telegram bot dispatcher
 
-Contributors
+
+## Contributors
 Tyron — Strategic Architect
 
 Josh — Lead Backend Developer
 
-📌 Disclaimer
+
+## Disclaimer
 This repo is for educational and experimental purposes only. Use caution and conduct your own due diligence before deploying in live environments.
 
 
