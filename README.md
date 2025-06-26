@@ -23,7 +23,7 @@ This system ensures **consistency, risk integrity, and automation readiness** fo
 | Folder                      | Purpose                                                             |
 |-----------------------------|---------------------------------------------------------------------|
 | `formatter/`               | Core formatter logic (SL/TP calc, leverage tiers, signal packaging) |
-| `volatility/`              | ATR filters and volatility sanity checks                            |
+| `risk/`              | ATR filters and volatility sanity checks                            |
 | `dispatch/`                | Telegram output formatting and bot compatibility                    |
 | `examples/`                | Sample signal inputs and expected output format                     |
 | `docs/` (future)           | Google Docs–friendly guides for non-technical teammates             |
