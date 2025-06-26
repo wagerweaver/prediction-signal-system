@@ -77,7 +77,7 @@ python examples/test_formatter.py
 
 4. Integrate into your system, one module at a time.
 
-📄 Documentation
+## 📄 Documentation
 
 [📘 Signal Formatter Module — Guide for Codex Integration](https://docs.google.com/document/d/1q9Ls1xvgQq6iYP4bCRUcP2u4pJqizPjsTtZwtBCGYJ0)
 
