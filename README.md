@@ -66,3 +66,43 @@ This repo **solves that** with reusable tools and clean interfaces so your tradi
    ```bash
    git clone https://github.com/yourusername/signal-formatter.git
    cd signal-formatter
+
+2. Install required packages (if needed):
+
+pip install -r requirements.txt
+
+3. Run an example:
+
+python examples/test_formatter.py
+
+4. Integrate into your system, one module at a time.
+
+📄 Documentation
+
+[📘 Signal Formatter Module — Guide for Codex Integration](https://docs.google.com/document/d/1q9Ls1xvgQq6iYP4bCRUcP2u4pJqizPjsTtZwtBCGYJ0)
+[📘 Trade Structuring Master Guide — Aligning Prediction Engine Outputs With Signal Risk Logic](https://docs.google.com/document/d/1r8n3RU3bawmqQrXIVN3ahQyMlIqaBSk0ldX_y03FPwE)
+[📂 Master Guide — Full System Overview & Prioritized Integration Plan](https://docs.google.com/document/d/1SNXSDPNoD9vFa2uJD2_Wp38lhfLKXL_xjap8av5j-sU)
+
+💡 Roadmap
+✅ Multi-asset class support (stocks, crypto, forex)
+
+✅ Leverage-tier automation
+
+✅ Modular signal formatter core
+
+🔜 Model alignment validator
+
+🔜 Dynamic R/R optimization layer
+
+🔜 Telegram bot dispatcher
+
+Contributors
+Tyron — Strategic Architect
+
+Josh — Lead Backend Developer
+
+📌 Disclaimer
+This repo is for educational and experimental purposes only. Use caution and conduct your own due diligence before deploying in live environments.
+
+
+
